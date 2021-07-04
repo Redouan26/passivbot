@@ -1,7 +1,7 @@
 {
     "binance_01" : {
         "exchange": "binance",
-        "key": "key",
+        "key": "capo",
         "secret": "secret",
         "telegram": {
             "enabled": false,
